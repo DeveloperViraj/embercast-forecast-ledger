@@ -27,8 +27,8 @@ afterwards against NASA FIRMS fire detections without having to trust us.
 
 | # | Forecast week | Locked on the team's machine (UTC) | Published here |
 |---|---|---|---|
-| 1 | 6 to 12 Nov 2026 | 5 Nov 2026, 17:59 | 6 Nov 2026, after the week had started |
-| 2 | 7 to 13 Nov 2026 | 6 Nov 2026, 17:54 | 6 Nov 2026, after the week had started |
+| 1 | 6 to 12 Nov 2026 | 5 Nov 2026, 17:59 | 6 Nov 2026, 20:04 UTC (after its week had started) |
+| 2 | 7 to 13 Nov 2026 | 6 Nov 2026, 17:54 | 6 Nov 2026, 20:04 UTC (01:34 on 7 Nov in India, so after its week had started there) |
 
 Forecasts 1 and 2 were locked and chained locally before their weeks began, but this public repository was only created afterwards, so
 GitHub's timestamps cannot prove that for them. **From forecast 3 onward, each batch is pushed here automatically when it is issued,
