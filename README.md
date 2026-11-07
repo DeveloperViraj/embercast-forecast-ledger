@@ -1,8 +1,7 @@
 # EmberCast forecast ledger
 
 Public record of every live forecast issued by **EmberCast**, an early-warning system for crop-residue burning in Punjab, India.
-Built for the PCCOE Indradhanu International Grand Challenge 2026 (AI for Climate Change) by Kamaaksha Kharul, Aakash Jawle,
-Viraj Jadhav and Kshitij Londhe.
+Made by Kamaaksha Kharul, Aakash Jawle, Viraj Jadhav and Kshitij Londhe.
 
 Each forecast gives, for every one of Punjab's 1,907 squares of about 5 × 5 km, the chance that a satellite sees at least one crop fire
 in that square during the next 7 days. Forecasts are committed here **before the week they describe begins**, so anyone can check them
